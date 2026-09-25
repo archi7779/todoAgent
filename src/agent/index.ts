@@ -1,0 +1,1 @@
+export {getApp} from './graph'
